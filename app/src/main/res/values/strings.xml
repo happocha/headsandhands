@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">headsandhands</string>
+
+    <!--error-->
+    <string name="error_something">Что-то пошло не так!</string>
+    <string name="error_no_connection">нет подключения к сети</string>
+    <string name="error_email">неверный email</string>
+    <string name="error_password">недостаточно сложный пароль</string>
+
+    <!--login-->
+    <string name="login_authorization">Авторизация</string>
+    <string name="login_sign_in">Войти</string>
+    <string name="login_create">Создать</string>
+    <string name="login_email">Электронная почта</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_create_button">Нажата кнопка создать</string>
+
+    <!--main-->
+    <string name="main_title">Главный</string>
+
+</resources>

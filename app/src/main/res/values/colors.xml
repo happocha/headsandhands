@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">#373f4d</color>
+    <color name="colorAccent">#ff9b00</color>
+
+    <color name="status_bar">#f4f4f4</color>
+    <color name="greyish_brown">#414141</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#4e92df</color>
+    <color name="hint">#6e6e6e</color>
+    <color name="transparent">#00000000</color>
+
+</resources>
